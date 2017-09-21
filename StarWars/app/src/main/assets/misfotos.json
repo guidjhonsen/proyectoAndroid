@@ -1,0 +1,16 @@
+{
+  "fotos": [
+    {
+      "nombre": "Personajes de Star Wars",
+      "foto_url": "http://3.bp.blogspot.com/-XNwTDVn74v4/VCaacRs9qNI/AAAAAAAAE1U/4FfXHqtdz5E/s1600/Star%2BWars%2B-%2BDarth%2BVader1.jpg"
+    },
+    {
+      "nombre": "Vehiculos de Star Wars",
+      "foto_url": "http://www.milcomics.com/spa/item/resource/ART03581/sandspeeder.jpg"
+    },
+    {
+      "nombre": "Planetas de Star Wars",
+      "foto_url": "http://www.dibujosyjuegos.com/dibujos/galleries/Pelis-dibujos-animados/El-planeta-del-tesoro/planeta-del-tesoro-004.gif"
+    }
+  ]
+}

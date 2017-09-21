@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimaryDark"
+    >
+
+    <TextView
+        android:id="@+id/nombreTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textColor="@color/cardview_light_background"
+        android:gravity="left"
+        android:textAllCaps="true"
+        />
+    <TextView
+        android:id="@+id/alturaTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textColor="@color/cardview_light_background"
+        android:gravity="left"
+        android:textAllCaps="true"
+        />
+    <TextView
+        android:id="@+id/pesoTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textColor="@color/cardview_light_background"
+        android:gravity="left"
+        android:textAllCaps="true"
+        />
+
+    <TextView
+        android:id="@+id/cabelloTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textColor="@color/cardview_light_background"
+        android:gravity="left"
+        android:textAllCaps="true"
+        />
+    <TextView
+        android:id="@+id/ojosTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textColor="@color/cardview_light_background"
+        android:gravity="left"
+        android:textAllCaps="true"
+        />
+    <TextView
+        android:id="@+id/generoTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textColor="@color/cardview_light_background"
+        android:gravity="left"
+        android:textAllCaps="true"
+        />
+
+
+</LinearLayout>

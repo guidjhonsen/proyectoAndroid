@@ -1,0 +1,24 @@
+{
+  "amigos":[
+    {
+      "foto_url": "http://www.alfabetajuega.com/abj_public_files/multimedia/imagenes/201512/129962.alfabetajuega-star-wars-video-todas-naves-trilogia-original-081215.jpg",
+      "nombre": "NAVES"
+    },
+    {
+      "foto_url": "https://4.bp.blogspot.com/-fV4a88mD9hc/VkkJA4axlxI/AAAAAAAAA48/egubjvN8SMk/s1600/c1a.jpg",
+      "nombre": "PLANETAS"
+    },
+    {
+      "foto_url": "http://vignette3.wikia.nocookie.net/es.starwars/images/4/4c/Nautolan_NEGAS.jpg/revision/latest?cb=20070409192128",
+      "nombre": "ESPECIES"
+    },
+    {
+      "foto_url": "http://www.milcomics.com/spa/item/resource/ART03581/sandspeeder.jpg",
+      "nombre": "VEHICULOS"
+    },
+    {
+      "foto_url": "http://www.top10de.com/wp-content/uploads/2012/11/Darth-Vader.png",
+      "nombre": "PERSONAJES"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:background="@color/cardview_shadow_end_color"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+    <Button
+        android:id="@+id/button6"
+
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:onClick="personajes"
+        android:text="PERSONA" />
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:onClick="planetas"
+        android:text="PLANETAS" />
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:onClick="naves"
+        android:text="NAVES" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/fotoImageView"
+        android:layout_width="wrap_content"
+        android:scaleType="centerInside"
+        android:layout_height="200dp" />
+
+    <TextView
+        android:id="@+id/nombreTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        tools:text="Pie de foto" />
+
+</LinearLayout>
